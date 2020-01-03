@@ -38,8 +38,9 @@
             this.label.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label.Location = new System.Drawing.Point(0, 0);
+            this.label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label.Name = "label";
-            this.label.Size = new System.Drawing.Size(884, 461);
+            this.label.Size = new System.Drawing.Size(1326, 709);
             this.label.TabIndex = 1;
             this.label.Text = "Info label";
             this.label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -51,14 +52,14 @@
             // 
             // ImageQuizForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(884, 461);
+            this.ClientSize = new System.Drawing.Size(1326, 709);
             this.Controls.Add(this.label);
             this.DoubleBuffered = true;
-            this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(900, 500);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.MinimumSize = new System.Drawing.Size(1339, 739);
             this.Name = "ImageQuizForm";
             this.ShowIcon = false;
             this.Text = "ImageQuiz";

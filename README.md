@@ -12,7 +12,7 @@ How about movies? How about flowers? How about a sights? Create an image quiz fo
 
 ## Getting Started
 
-1. Download the [latest **ImageQuiz** release](https://github.com/selmaohneh/ImageQuiz/releases) or clone and build this repository!
+1. Download the [latest **ImageQuiz** release](https://github.com/selmaohneh/ImageQuiz/releases) or clone the repository and build the project yourself!
 2. Create a folder that contains all images that belong to your quiz! Supported file types are *.jpg*, *.jpeg*, *.png*, and *.bmp*. **ImageQuiz** shows the images in alphabetical order. So if the order is important to your quiz, make sure to name the files accordingly (i.e. *a.jpg*, *b.png*, *c.bmp*)!
 3. Start **ImageQuiz**!
 4. Select the directory containing your images. If you already forgot: You created that folder in step 2. ;-)

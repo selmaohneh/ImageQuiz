@@ -20,6 +20,6 @@ How about movies? How about flowers? How about a sights? Create an image quiz fo
 
 ## Contributing
 
-* You created a cool quiz and want to share with others? Put the corresponding image folder inside the /Quizzes directory of this repository and create a Pull Request!
+* You created a cool quiz and want to share with others? Put the corresponding image folder inside the /Quizzes directory of this repository and [create a Pull Request](https://github.com/selmaohneh/ImageQuiz/pulls)!
 * You found a bug or have an idea for a new feature? Please [file in issue](https://github.com/selmaohneh/ImageQuiz/issues).
 * [Kaffee? :-)](https://www.buymeacoffee.com/SaMAsU1N6)
